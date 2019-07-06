@@ -1,3 +1,14 @@
 /target
 **/*.rs.bk
 Cargo.lock
+*/target
+*/Cargo.lock
+
+.*.swp
+
+*rusty-tags.vi*
+.vscode/*
+*/.vscode/*
+.idea/*
+*/.idea/*
+
